@@ -9,4 +9,4 @@
 	url = https://github.com/raysan5/raygui.git
 [submodule "Libs/physac"]
 	path = Libs/physac
-	url = https://github.com/raysan5/physac.git
+	url = https://github.com/victorfisac/Physac.git
